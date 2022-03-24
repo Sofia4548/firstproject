@@ -3,7 +3,7 @@ public class Greeting {
     {
         System.out.println("sofia changes");
         System.out.println("Sofia 2 changes");
-        System.out.println("Sofia3 Changes");
+        System.out.println("Joe Changes");
         if(lang == "Eng") {
             return "hello " + name;
 
