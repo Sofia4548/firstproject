@@ -1,8 +1,10 @@
 public class Greeting {
     public static String greet(String lang,String name)
     {
+        System.out.println("sofia changes");
         if(lang == "Eng") {
             return "hello " + name;
+
         }
         else if(lang=="es") {
             return "Hola" + name;
