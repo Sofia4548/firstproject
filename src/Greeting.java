@@ -2,6 +2,7 @@ public class Greeting {
     public static String greet(String lang,String name)
     {
         System.out.println("sofia changes");
+        System.out.println("Sofia 2 changes");
         if(lang == "Eng") {
             return "hello " + name;
 
