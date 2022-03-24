@@ -5,7 +5,7 @@ public class Greeting {
         System.out.println("Sofia 2 changes");
         System.out.println("Joe Changes");
         if(lang == "Eng") {
-            return "hello " + name;
+            return "hello there " + name;
 
         }
         else if(lang=="es") {
